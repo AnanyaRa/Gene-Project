@@ -1391,3 +1391,7 @@ Ser
 Tyr
 STOP
 When comparing the protein sequence to the human genome, the NNF2 genome did not have any significant similarities to the Homosapiens. 
+
+This protein can be translated using python. 
+
+
