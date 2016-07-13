@@ -960,6 +960,6 @@ STOP
 
 ## Evolutionary History 
 When comparing the protein sequence to the different organisms, the NNF2 genome did not have any significant similarities to the Homosapiens, mice, plants and mushrooms. 
-NNF2 showed protein similarities to Neurospora crassa.
+NNF2 showed protein similarities to Neurospora crassa, as well as minor alignments to Drosophila ananassae. 
 
 
