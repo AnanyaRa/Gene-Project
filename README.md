@@ -290,6 +290,10 @@ Ile
 Leu
 Thr
 Lys
+
+
+
+
 Met
 Thr
 Val
